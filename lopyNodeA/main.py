@@ -31,18 +31,20 @@ while True:
         data = uart1.read()
         pycom.rgbled(0xFF0000) # set LED to RED on if data received
         if data == b'person':
-            pycom.rgbled(0x00FF00) # set LED to GREEN if data is b'send'
-            s.send('person')
+            pycom.rgbled(0xFF0000) # set LED to GREEN if data is b'send'
+            
+            s.send('data')
             print('Ping {}'.format(i) + "person")
             i= i+1
         
         if data == b'car':
             pycom.rgbled(0x0000FF) 
-            s.send('car')
+            
+            s.send('data')
             print('Ping {}'.format(i) + "car")
             i= i+1
             
             
-        time.sleep(1)
+        
         pycom.rgbled(0x000000)
     time.sleep(0.25)
