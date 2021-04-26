@@ -66,6 +66,11 @@ The beacons and the application receivers inside the car must be scalable that i
 
    Show yourself or a toy car in the camera and see that the lopy connected to the vision system should blink either green or blue and the receiving lopy should how a red LED once a hazard is detected.
 
+![ProjectImage](./images/box.JPG)
+![ProjectImage](./images/cardev.JPG)
+![ProjectImage](./images/tf.JPG)
+![ProjectImage](./images/tfcar.JPG)
+
 
 # Common Errors
 
