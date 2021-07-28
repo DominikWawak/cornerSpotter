@@ -8,7 +8,7 @@
 * References 
 
 ### In a nutshell:
-Internet of thing warning system for vehicles when travelling around tight corners.
+Internet of things warning system for vehicles when travelling around tight corners.
 
 ## My initial plan:
 The project vision is that a beacon situated on a tight corner will be able to warn a driver or a self driving vehicle about an oncoming obstacle if one exists.
