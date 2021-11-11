@@ -1,5 +1,8 @@
 # cornerSpotter
 ![ProjectImage](./images/project.JPG)
+
+[![BB19 VIdeo ](https://youtu.be/WvSnezB639M)]
+
 ### Index
 * My initial plan
 * Project Graphics
