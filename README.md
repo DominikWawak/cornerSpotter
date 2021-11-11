@@ -1,7 +1,7 @@
 # cornerSpotter
 ![ProjectImage](./images/project.JPG)
 
-[![BB19 VIdeo ](https://youtu.be/WvSnezB639M)]
+[![CornerSpotter](https://www.youtube.com/watch?v=WvSnezB639M)]
 
 ### Index
 * My initial plan
